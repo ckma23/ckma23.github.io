@@ -1,0 +1,13 @@
+body {
+  background:#999;
+  font-family: arial;
+}
+
+h1, h2 {
+  color: #555;
+}
+
+p, li , a {
+  color: #342;
+  font-family: Serif
+}
