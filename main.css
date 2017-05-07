@@ -11,3 +11,9 @@ p, li , a {
   color: #342;
   font-family: Serif
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
