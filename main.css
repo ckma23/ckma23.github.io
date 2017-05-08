@@ -4,9 +4,10 @@ ul#listnow {
   test-align: left;
 }
 
+
 nav#foot ul li {
-  background: #99ffcc;
-  color: white;
+  background: #687060;
+  color: #000;
   display: inline-block;
   list-style-type: none;
   padding: 0px;
@@ -14,6 +15,7 @@ nav#foot ul li {
   border: 0px solid #687060;
   border-radius: 2px 2px 2px 2px;
 }
+
 .myPanel {
   border: 1px solid#687060;
   border-radius: 5px;
