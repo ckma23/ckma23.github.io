@@ -1,0 +1,43 @@
+body {
+  background:#999;
+  font-family: arial;
+}
+
+h1, h2 {
+  color: #555;
+}
+
+
+p {
+  color: #342;
+  font-family: Serif;
+  padding: 5pix 0pix 0pix 0pix;
+}
+
+.secondary {
+  background: blue;
+  color: #656;
+}
+
+#special {
+  background: red;
+  color: #656;
+}
+
+
+a {
+  color: #342;
+  font-family: Serif;
+}
+
+li {
+  color: #342;
+  font-family: Serif;
+  display: inline;
+}
+
+ul li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}

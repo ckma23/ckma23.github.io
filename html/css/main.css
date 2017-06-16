@@ -1,0 +1,54 @@
+ul#listnow {
+  list-style-type: none;
+  clear: both;
+  test-align: left;
+}
+
+
+nav#foot ul li {
+  background: #687060;
+  color: #000;
+  display: inline-block;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0;
+  border: 0px solid #687060;
+  border-radius: 2px 2px 2px 2px;
+}
+
+.myPanel {
+  border: 1px solid#687060;
+  border-radius: 5px;
+  box-shadow:0px 0px 1px black;
+  margin: 3%;
+}
+
+.myPanel .heading {
+  background: black;
+  border: 1px solid #687060;
+  border-radius: 5px 5px 0 0;
+  -webkit-border-radius: 5px; <!-- older browsers dont have border-radius yet-->
+  -moz-border-radius: 5px; <!-- for moz -->
+  color: #687060;
+  padding: 10px 20px;
+}
+
+.myPanel .body {
+  padding: 10px 20px;
+}
+
+.myPanel:hover {
+  box-shadow: 0px 0px 8px #667;
+  border: 2px solid #687D6D;
+}
+.myPanel .shownOnHover{
+  display: none;
+}
+
+.myPanel:hover .shownOnHover{
+  display: inline-block;
+}
+
+nav ul li a {
+  color: white;
+}
