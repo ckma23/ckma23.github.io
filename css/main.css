@@ -4,8 +4,8 @@ body {
   padding: 0;
 }
 
-@media only screen and (min-width: 350px) and (max-width: 500px) {
-  #cover {
+@media only screen and (max-width: 500px)
+{ #cover {
     background-size: cover;
     background-attachment: scroll;
   }
@@ -39,7 +39,11 @@ body {
   z-index: 10000;
 }
 
-a {
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
   text-decoration: none;
 }
 
