@@ -3,6 +3,13 @@ body {
   margin: 0;
   padding: 0;
 }
+
+@media only screen and (min-width: 350px) and (max-width: 500px) {
+  #cover {
+    background-size: cover;
+    background-attachment: scroll;
+  }
+}
 /* for the nav bar*/
 #cover {
   height:900px;
@@ -142,10 +149,4 @@ a {
 }
 .destination img {
   width:100%
-}
-
-@media only screen and (min-width: 350px) and (max-width: 500px) {
-  #cover {
-    background-attachment: scroll;
-  }
 }
