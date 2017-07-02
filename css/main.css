@@ -10,6 +10,12 @@ body {
     background-attachment: scroll;
   }
 }
+
+@media only screen and (max-width: 500px)
+{ p {
+    font-size:500px;
+  }
+}
 /* for the nav bar*/
 #cover {
   height:900px;
@@ -18,7 +24,7 @@ body {
   width: 100%;
   background: url("http://www.wallpapermade.com/images/wallpapers/originals/plane-take-off-in-the-morning-wallpaper-1958.jpg") no-repeat center bottom;
   background-size: cover;
-  background-attachment: scroll;
+  background-attachment: fixed;
 }
 
 #search-bar{
