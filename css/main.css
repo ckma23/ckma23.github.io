@@ -113,18 +113,14 @@ a {
   text-decoration: underline;
 }
 
-@media screen and (max-width:700px)
+@media screen and (max-width:500px)
 { #cover {
     background-size: cover;
     background-attachment: scroll;
   }
 }
 
-@media screen and (max-width:700px)
-{ p {
-    font-size:500px;
-  }
-}
+
 
 #id {
   background-color :yellow;
