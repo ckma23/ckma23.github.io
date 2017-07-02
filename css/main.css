@@ -8,7 +8,6 @@ body {
   height:900px;
   position: relative;
   top: -55px;
-  width: 100%;
   background: url("http://www.wallpapermade.com/images/wallpapers/originals/plane-take-off-in-the-morning-wallpaper-1958.jpg") no-repeat center bottom;
   background-size: cover;
   background-attachment: fixed;
@@ -145,6 +144,8 @@ a {
   width:100%
 }
 
-@media only screen and (min-width: 480px), orientation: landscape {
-
+@media only screen and (min-width: 350px)and (max-width: 500px) {
+  #cover {
+    background-position: initial;
+  }
 }
