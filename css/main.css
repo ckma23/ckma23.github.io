@@ -66,6 +66,11 @@ li {
   padding:5px;
 }
 
+video {
+  background-color: #000000;
+  border: 2px solid black;
+}
+
 .cover-content {
   box-sizing: border-box;
   margin: 0 auto;

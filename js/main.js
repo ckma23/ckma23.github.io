@@ -20,4 +20,5 @@ $('#main_btn').on('click',function(){
 });
 $('.navi_bar').hover(function(){
   $(this).toggleClass('active');
+  //$(this).next.toggleClass('active');
 });
