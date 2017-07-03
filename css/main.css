@@ -8,7 +8,7 @@ body {
 #cover {
   height:900px;
   position: relative;
-  top: -55px;
+  top: -75px;
   width: 100%;
   background: url("http://www.wallpapermade.com/images/wallpapers/originals/plane-take-off-in-the-morning-wallpaper-1958.jpg") no-repeat center bottom;
   background-size: cover;
@@ -16,10 +16,13 @@ body {
 }
 
 #search-bar{
-  text-align: center;
+  text-align: left;
   font-family:'Abel';
   font-size: 20px;
   border-radius: 10px 10px 10px 10px;
+  width: 400px;
+  padding-left: 10px;
+  margin-left:300px;
 }
 
 .navigation {
@@ -111,8 +114,12 @@ p {
 }
 a {
   text-decoration: underline;
+  font-size:30px;
 }
 
+a {
+  display:
+}
 @media only screen and (min-device-width: 375px)  and (max-device-width:667px)
 { #cover {
     background-size: cover;
@@ -133,6 +140,9 @@ a {
   background-image: -webkit-linear-gradient(#20b2aa, #00fa9a);
 }
 
+img:hover{
+  opacity:.3;
+}
 .btn:hover {
   box-shadow: 1px 1px grey;
   border: 2px solid #687D60;
@@ -154,4 +164,8 @@ a {
 }
 .destination img {
   width:100%
+}
+
+.active {
+  opacity:.5;
 }
