@@ -192,5 +192,9 @@ img:hover{
   padding: 8px 18px;
   border: 1px solid #204156;
   font-family: 'Amatic SC';
-  float:;
+  float:right;
+}
+
+.active_btn {
+  top:2px;
 }

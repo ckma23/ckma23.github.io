@@ -22,3 +22,6 @@ $('.navi_bar').hover(function(){
   $(this).toggleClass('active');
   //$(this).next.toggleClass('active');
 });
+$('.contact-btn').on('click',function(){
+  $(this).toggleClass('.active_btn ');
+});
