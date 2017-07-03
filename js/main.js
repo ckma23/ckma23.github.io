@@ -18,7 +18,6 @@ $(".main_toggle").hide();
 $('#main_btn').on('click',function(){
   $(".main_toggle").toggle();
 });
-('.navi_bar').hover(function(){
-  alert('Hello')
+$('.navi_bar').hover(function(){
   $(this).toggleClass('active');
 });
