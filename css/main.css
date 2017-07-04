@@ -42,7 +42,7 @@ form {
   border:2px solid;
   background-color:#207cca;
   color:#fafafa;
-  background-image: -webkit-linear-gradient(#20b2aa, #00fa9a);
+  background-image: -webkit-linear-gradient(#20b2aa, ##191970#191970);
   font-family:'Amatic SC'
 }
 
