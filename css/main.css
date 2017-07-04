@@ -157,7 +157,7 @@ a {
     background-size: cover;
     background-attachment: scroll;
   }
-  #search-bar{
+  .search-button {
     width:150px;
     margin-left:2px;
   }
