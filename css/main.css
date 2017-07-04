@@ -159,7 +159,8 @@ a {
   }
   .search-button {
   width:50px;
-  margin-left:2px;
+  background-image: -webkit-linear-gradient(#20b2aa, ##191970#191970);
+  /*margin-left:2px;*/
   }
   .search {
     width:100px;
