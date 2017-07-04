@@ -158,11 +158,11 @@ a {
     background-attachment: scroll;
   }
   .search-button {
-    width:50px;
-    margin-left:2px;
+  /*  width:50px;*/
+    /*margin-left:2px;*/
   }
   .search {
-    width:100px;
+    /*width:100px;*/
   }
   li {
     padding:0px;
