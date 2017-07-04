@@ -157,17 +157,17 @@ a {
     background-size: cover;
     background-attachment: scroll;
   }
-  .search-button {
-  /*  width:50px;*/
-    /*margin-left:2px;*/
+  /*.search-button {
+  width:50px;
+  margin-left:2px;
   }
   .search {
-    /*width:100px;*/
+    width:100px;
   }
   li {
     padding:0px;
     font-size:12px;
-  }
+  }*/
 }
 
 #id {
