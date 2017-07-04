@@ -157,7 +157,7 @@ a {
     background-size: cover;
     background-attachment: scroll;
   }
-  /*.search-button {
+  .search-button {
   width:50px;
   margin-left:2px;
   }
@@ -167,7 +167,7 @@ a {
   li {
     padding:0px;
     font-size:12px;
-  }*/
+  }
 }
 
 #id {
