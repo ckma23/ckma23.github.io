@@ -161,6 +161,9 @@ a {
     width:150px;
     margin-left:2px;
   }
+  .search {
+    width:150px;
+  }
   li {
     padding:0px;
     font-size:12px;
