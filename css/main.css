@@ -44,6 +44,7 @@ form {
   color:#fafafa;
   background-image: -webkit-linear-gradient(#20b2aa, ##191970#191970);
   font-family:'Amatic SC'
+  -webkit-apperance:none;
 }
 
 .search-button:hover {
@@ -159,7 +160,6 @@ a {
   }
   .search-button {
   width:50px;
-  -webkit-appearance: none;
   /*margin-left:2px;*/
   }
   .search {
