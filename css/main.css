@@ -159,7 +159,7 @@ a {
     background-attachment: scroll;
   }
   .search-button {
-  width:50px;
+  width:100px;
   -webkit-appearance: none;
   /*margin-left:2px;*/
   }
