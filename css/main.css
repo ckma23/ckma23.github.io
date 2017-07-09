@@ -160,6 +160,7 @@ a {
   }
   .search-button {
   width:50px;
+  -webkit-appearance: none;
   /*margin-left:2px;*/
   }
   .search {
