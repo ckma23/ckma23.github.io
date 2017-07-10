@@ -36,6 +36,16 @@ body {
   background-attachment: fixed;
   margin-top:;
 }
+#covertravel {
+  height:1000px;
+  position: relative;
+  top:-50px;
+  width: 100%;
+  background: url("https://i.ytimg.com/vi/q0ugLbzdmqc/maxresdefault.jpg") no-repeat center bottom;
+  background-size: cover;
+  background-attachment: fixed;
+  margin-top:;
+}
 
 /*#search-bar{
   text-align: left;
@@ -184,6 +194,10 @@ a {
       background-attachment: scroll;
     }
   #coverstay {
+      background-size: cover;
+      background-attachment: scroll;
+    }
+  #covertravel {
       background-size: cover;
       background-attachment: scroll;
     }
