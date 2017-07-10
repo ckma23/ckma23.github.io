@@ -175,10 +175,18 @@ a {
   display:
 }
 @media only screen and (min-device-width: 375px)  and (max-device-width:667px)
-{ #cover #coverfood #coverstay {
+{ #cover  {
     background-size: cover;
     background-attachment: scroll;
   }
+  #coverfood {
+      background-size: cover;
+      background-attachment: scroll;
+    }
+  #coverstay {
+      background-size: cover;
+      background-attachment: scroll;
+    }
   .search-button {
   width:100px;
   -webkit-appearance: none;
