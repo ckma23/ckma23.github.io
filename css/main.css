@@ -15,6 +15,28 @@ body {
   background-attachment: fixed;
 }
 
+#coverfood {
+  height:1000px;
+  position: relative;
+  top:-50px;
+  width: 100%;
+  background: url("https://baileyseafood.com/wp-content/uploads/2014/06/istock_000056085146_medium1.jpg") no-repeat center bottom;
+  background-size: cover;
+  background-attachment: fixed;
+  margin-top:;
+}
+
+#coverstay {
+  height:1000px;
+  position: relative;
+  top:-50px;
+  width: 100%;
+  background: url("http://www.ultimatebali.com/wp-content/uploads/2015/07/Kalimaya-IV-Bali-Master-Bedroom-Pool-View.jpg") no-repeat center bottom;
+  background-size: cover;
+  background-attachment: fixed;
+  margin-top:;
+}
+
 /*#search-bar{
   text-align: left;
   font-family:'Abel';
@@ -44,7 +66,6 @@ form {
   color:#fafafa;
   background-image: -webkit-linear-gradient(#20b2aa, ##191970#191970);
   font-family:'Amatic SC'
-  -webkit-apperance:none;
 }
 
 .search-button:hover {
